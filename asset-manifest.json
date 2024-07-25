@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Aryan-sengar/envosafe-ecommerce.git/static/css/main.9153fc50.css",
-    "main.js": "/Aryan-sengar/envosafe-ecommerce.git/static/js/main.493f1180.js",
-    "static/js/453.0877de24.chunk.js": "/Aryan-sengar/envosafe-ecommerce.git/static/js/453.0877de24.chunk.js",
-    "static/media/p1.png": "/Aryan-sengar/envosafe-ecommerce.git/static/media/p1.ada4531e9826b6423143.png",
-    "static/media/envosafelogo.png": "/Aryan-sengar/envosafe-ecommerce.git/static/media/envosafelogo.c76489e7f0564c07b5d8.png",
-    "index.html": "/Aryan-sengar/envosafe-ecommerce.git/index.html",
-    "main.9153fc50.css.map": "/Aryan-sengar/envosafe-ecommerce.git/static/css/main.9153fc50.css.map",
-    "main.493f1180.js.map": "/Aryan-sengar/envosafe-ecommerce.git/static/js/main.493f1180.js.map",
-    "453.0877de24.chunk.js.map": "/Aryan-sengar/envosafe-ecommerce.git/static/js/453.0877de24.chunk.js.map"
+    "main.css": "/envosafe-ecommerce/static/css/main.9153fc50.css",
+    "main.js": "/envosafe-ecommerce/static/js/main.8f9a79b2.js",
+    "static/js/453.0877de24.chunk.js": "/envosafe-ecommerce/static/js/453.0877de24.chunk.js",
+    "static/media/p1.png": "/envosafe-ecommerce/static/media/p1.ada4531e9826b6423143.png",
+    "static/media/envosafelogo.png": "/envosafe-ecommerce/static/media/envosafelogo.c76489e7f0564c07b5d8.png",
+    "index.html": "/envosafe-ecommerce/index.html",
+    "main.9153fc50.css.map": "/envosafe-ecommerce/static/css/main.9153fc50.css.map",
+    "main.8f9a79b2.js.map": "/envosafe-ecommerce/static/js/main.8f9a79b2.js.map",
+    "453.0877de24.chunk.js.map": "/envosafe-ecommerce/static/js/453.0877de24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9153fc50.css",
-    "static/js/main.493f1180.js"
+    "static/js/main.8f9a79b2.js"
   ]
 }
